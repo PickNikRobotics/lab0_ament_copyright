@@ -1,4 +1,4 @@
-# Copyright 2022 Lab0
+# Copyright 2022 LAB0 inc.
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are met:
@@ -10,7 +10,7 @@
 #      notice, this list of conditions and the following disclaimer in the
 #      documentation and/or other materials provided with the distribution.
 #
-#    * Neither the name of the Lab0 nor the names of its
+#    * Neither the name of the LAB0 inc. nor the names of its
 #      contributors may be used to endorse or promote products derived from
 #      this software without specific prior written permission.
 #
@@ -32,4 +32,4 @@ from ament_copyright.licenses import read_license_data
 
 TEMPLATE_DIRECTORY = os.path.join(os.path.dirname(__file__), 'template')
 
-lab0_proprietary = read_license_data(TEMPLATE_DIRECTORY, 'Lab0 Proprietary License', 'Lab0', 'lab0_proprietary')
+lab0_proprietary = read_license_data(TEMPLATE_DIRECTORY, 'LAB0 inc. Proprietary License', 'LAB0 inc.', 'lab0_proprietary')

@@ -1,2 +1,2 @@
 Any contribution that you make to this repository
-will be under the Lab0 proprietary license.
+will be under the LAB0 inc. proprietary license.

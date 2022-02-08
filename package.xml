@@ -4,7 +4,7 @@
   <name>lab0_ament_copyright</name>
   <version>0.0.1</version>
   <description>
-    Check Lab0-specific copyright headers.
+    Check LAB0 inc.-specific copyright headers.
   </description>
   <maintainer email="tyler@picknik.ai">Tyler Weaver</maintainer>
   <license>BSD</license>
